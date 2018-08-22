@@ -1,0 +1,25 @@
+{
+  "name": "byteconter",
+  "version": "1.0.0",
+  "description": "计算string的字节数（utf-8/utf-16编码）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anlibraly/byteConter.git"
+  },
+  "keywords": [
+    "byte",
+    "count",
+    "string",
+    "buffer"
+  ],
+  "author": "anlibraly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anlibraly/byteConter/issues"
+  },
+  "homepage": "https://github.com/Anlibraly/byteConter#readme"
+}
